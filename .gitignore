@@ -1,1 +1,5 @@
-node_modules
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/a2zphotography/public_html/
+    - /bin/cp -R * $DEPLOYPATH
