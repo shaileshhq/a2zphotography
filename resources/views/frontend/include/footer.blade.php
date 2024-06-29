@@ -86,6 +86,6 @@ all the stories that truly matter.</p>
 </div>
 </div>
 <div class="footer-btm d-flex justify-content-center">
-<p>Copyright 2024 All right reserverd. Developed By<a href="https://techuptechnologies.com/">Techup Technologies</a></p>
+<p>Copyright 2024 All right reserverd. Developed By<a href="https://techuptechnologies.com/"> Techup Technologies</a></p>
 </div>
 </footer>

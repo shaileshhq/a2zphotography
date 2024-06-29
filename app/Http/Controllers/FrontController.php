@@ -34,7 +34,8 @@ class FrontController extends Controller
         $product = Product::where('delete_status', 0)->orderBy('id', 'DESC')->get();
         $category = ProductCategory::where('delete_status', 0)->orderBy('id', 'ASC')->get();
         $logo = Logo::where('delete_status', 0)->orderBy('id', 'DESC')->take(12)->get();
-        return view('frontend.index',compact('slider','product','gallery','category','logo'));
+        $blog = Blog::where('delete_status', 0)->where('status',1)->orderBy('id', 'DESC')->take(3)->get();
+        return view('frontend.index',compact('slider','product','gallery','category','logo','blog'));
     }
 
     public function about()

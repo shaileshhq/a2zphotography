@@ -137,7 +137,10 @@
                                     <div class="section-title1 mb--40">
                                         <span>What we do?</span>
                                         <h2>My Services</h2>
-                                        <p>Discover our comprehensive range of services at Company Name. From captivating wedding photography to intimate engagement shoots and enchanting pre-wedding sessions, we specialize in preserving life's most precious moments.</p>
+                                        <p>Discover our comprehensive range of services at Company Name. From
+                                            captivating wedding photography to intimate engagement shoots and enchanting
+                                            pre-wedding sessions, we specialize in preserving life's most precious
+                                            moments.</p>
                                     </div>
                                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                         <li class="nav-item" role="presentation">
@@ -412,7 +415,9 @@
                 <div class="col-12">
                     <div class="section-title1 text-center">
                         <h2>See My All Photo</h2>
-                        <p>Presenting Here Some Of The Images & Videos That We Captured & Clicked In Various Functions & Y We Have Been Called As Cities' Top Wedding Photographer For Complete Access To Gallery Do Click On Below Button</p>
+                        <p>Presenting Here Some Of The Images & Videos That We Captured & Clicked In Various Functions &
+                            Y We Have Been Called As Cities' Top Wedding Photographer For Complete Access To Gallery Do
+                            Click On Below Button</p>
                     </div>
                 </div>
             </div>
@@ -457,15 +462,19 @@
                             <div class="swiper-slide">
                                 <div class="testimonial-wrrap">
                                     <div class="content">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                                        <p>I had a fantastic experience working with A2ZPhotography for our family
+                                            portrait session. From start to finish, they were professional, attentive to
+                                            detail, and incredibly talented. The photographer captured moments that
+                                            perfectly encapsulated the essence of our family. The final photos exceeded
+                                            our expectations and will be cherished for years to come. I highly recommend
+                                            A2ZPhotography for anyone looking for top-notch photography services.</p>
                                     </div>
                                     <div class="author-area">
                                         <div class="author-name">
-                                            <h4>Johan Martin Sr</h4>
+                                            <h4>Ashutosh Mishra</h4>
                                         </div>
                                         <div class="author-img">
-                                            <img src="{{ asset('frontend_css/assets/images/bg/author-1.png') }}"
+                                            <img src="{{ asset('frontend_css/assets/images/user.png') }}"
                                                 alt="image">
                                         </div>
                                     </div>
@@ -474,15 +483,19 @@
                             <div class="swiper-slide">
                                 <div class="testimonial-wrrap">
                                     <div class="content">
-                                        <p>Quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda
-                                            est, omnis dolor repellendus. Temporibus autem quibusdam</p>
+                                        <p>I had an amazing experience with A2Z Photography. From start to finish, they
+                                            were professional, attentive, and incredibly talented. The photographer
+                                            captured exactly what I envisioned for my event, and the photos turned out
+                                            stunning. The entire team was friendly and accommodating, making the whole
+                                            process smooth and enjoyable. I highly recommend A2Z Photography for anyone
+                                            looking for top-notch photography services!</p>
                                     </div>
                                     <div class="author-area mb-50">
                                         <div class="author-name">
-                                            <h4>Mason Jackson.</h4>
+                                            <h4>Vikas Sharma</h4>
                                         </div>
                                         <div class="author-img">
-                                            <img src="{{ asset('frontend_css/assets/images/bg/author-2.png') }}"
+                                            <img src="{{ asset('frontend_css/assets/images/user.png') }}"
                                                 alt="image">
                                         </div>
                                     </div>
@@ -491,15 +504,20 @@
                             <div class="swiper-slide">
                                 <div class="testimonial-wrrap">
                                     <div class="content">
-                                        <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore,
-                                            cum soluta nobis est eligendi optio cumque nihil impedit quo</p>
+                                        <p>I had an amazing experience with A2Z Photography Company! From the initial
+                                            consultation to receiving the final photos, everything was seamless and
+                                            professional. The photographer understood exactly what I wanted and captured
+                                            our special moments beautifully. The quality of the photos exceeded my
+                                            expectations, and I couldn't be happier with the results. I highly recommend
+                                            A2Z Photography Company to anyone looking for top-notch photography services
+                                        </p>
                                     </div>
                                     <div class="author-area">
                                         <div class="author-name">
-                                            <h4>Nancy Rosie</h4>
+                                            <h4>Shailesh Gupta</h4>
                                         </div>
                                         <div class="author-img">
-                                            <img src="{{ asset('frontend_css/assets/images/bg/author-3.png') }}"
+                                            <img src="{{ asset('frontend_css/assets/images/user.png') }}"
                                                 alt="image">
                                         </div>
                                     </div>
@@ -520,7 +538,8 @@
                 <div class="col-12">
                     <div class="section-title1 text-center">
                         <h2>Pricing plan</h2>
-                        <p>As Vintage decided to have a closer look into fast-paced New York web design realm in.</p>
+                        <p>Here's a basic outline for a photography company's pricing plan. Keep in mind, actual prices
+                            can vary widely depending on location, expertise, and specific services offered.</p>
                     </div>
                 </div>
             </div>
@@ -638,72 +657,34 @@
                 <div class="col-12">
                     <div class="section-title1 text-center">
                         <h2>News & Articles</h2>
-                        <p>As Vintage decided to have a closer look into fast-paced New York web design realm in.</p>
+                        <p>Here are a few suggestions for news and articles related to photography that could be
+                            interesting for your website or audience.</p>
                     </div>
                 </div>
             </div>
             <div class="row g-4 justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-news magnetic-item">
-                        <img class="img-fluid" src="{{ asset('frontend_css/assets/images/bg/about-img2.png') }}"
-                            alt="image">
-                        <div class="overlay">
-                            <a data-cursor="View<br>Details" href="#">
-                                <svg width="114" height="105" viewbox="0 0 114 105" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M8.7 104L113 1M113 1H1M113 1V104" stroke-width="2"
-                                        stroke-linecap="round" />
-                                </svg>
-                            </a>
-                            <div class="gallery-content">
-                                <h4><a data-cursor="View<br>Details" href="#">This is a great photography blog
-                                        for
-                                        food.</a></h4>
-                                <span>January 12, 2022</span>
+
+                @foreach ($blog as $item)
+                    <div class="col-lg-4 col-md-6 col-sm-10">
+                        <div class="single-news magnetic-item">
+                            <img class="img-fluid" src="public/blog/{{ $item->image }}" alt="image">
+                            <div class="overlay">
+                                <a data-cursor="View<br>Details" href="blog-details/{{ $item->slug }}">
+                                    <svg width="114" height="105" viewbox="0 0 114 105" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M8.7 104L113 1M113 1H1M113 1V104" stroke-width="2"
+                                            stroke-linecap="round" />
+                                    </svg>
+                                </a>
+                                <div class="gallery-content">
+                                    <h4><a data-cursor="View<br>Details"
+                                            href="blog-details/{{ $item->slug }}">{{ $item->title }}</a></h4>
+                                    <span>{{ date('d M, Y', strtotime($item->blog_date)) }}</span>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-news magnetic-item">
-                        <img class="img-fluid" src="{{ asset('frontend_css/assets/images/bg/about-img2.png') }}"
-                            alt="image">
-                        <div class="overlay">
-                            <a data-cursor="View<br>Detailst" href="#">
-                                <svg width="114" height="105" viewbox="0 0 114 105" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M8.7 104L113 1M113 1H1M113 1V104" stroke-width="2"
-                                        stroke-linecap="round" />
-                                </svg>
-                            </a>
-                            <div class="gallery-content">
-                                <h4><a data-cursor="View<br>Details" href="#">The Best Photography Blogs to
-                                        Follow for Inspiration!</a></h4>
-                                <span>January 12, 2022</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-10">
-                    <div class="single-news magnetic-item">
-                        <img class="img-fluid" src="{{ asset('frontend_css/assets/images/bg/about-img2.png') }}"
-                            alt="image">
-                        <div class="overlay">
-                            <a data-cursor="View<br>Details" href="#">
-                                <svg width="114" height="105" viewbox="0 0 114 105" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M8.7 104L113 1M113 1H1M113 1V104" stroke-width="2"
-                                        stroke-linecap="round" />
-                                </svg>
-                            </a>
-                            <div class="gallery-content">
-                                <h4><a data-cursor="View<br>Details" href="#">The sky is the limit with this
-                                        blog in the world.</a></h4>
-                                <span>January 12, 2022</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @endforeach
             </div>
         </div>
     </div>
