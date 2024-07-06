@@ -830,7 +830,6 @@
     </div>
     </div>
 
-
     <script src="{{ asset('frontend_css/assets/js/jquery-3.6.0.min.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/jquery-ui.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/bootstrap.bundle.min.js') }}"></script>
@@ -842,6 +841,7 @@
     <script src="{{ asset('frontend_css/assets/js/isotope.pkgd.min.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/viewport.jquery.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/jquery.magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('frontend_css/assets/js/gsap.min.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/SmoothScroll.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/scrollToPlugin.html') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/sidebar.js') }}"></script>
