@@ -2986,7 +2986,8 @@ footer.style1 .footer-widget .menu-container {
 @media (max-width: 1199px) {
   footer.style1 .footer-widget .menu-container {
     justify-content: center;
-    gap: 50px;
+    gap: 100px;
+    margin-bottom: 20px;
   }
 }
 footer.style1 .footer-widget .menu-container ul {

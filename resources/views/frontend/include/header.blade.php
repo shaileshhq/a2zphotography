@@ -132,7 +132,7 @@ $cat_title=App\Models\ProductCategory::where('delete_status',0)->orderBy('id', '
 </li>
 <li class="citem">
 <h6>E-mail</h6>
-<a href="#"><span>photography@gmail.com</span></a>
+<a href="mailto:a2zphotographyyy@gmail.com"><span>a2zphotographyyy@gmail.com</span></a>
 </li>
 <li class="citem">
 <h6>FOLLOW US:</h6>
