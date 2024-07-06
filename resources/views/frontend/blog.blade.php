@@ -80,7 +80,6 @@
 <!-- main-footer end -->
 </div>
 </div>
-
 <script src="{{ asset('frontend_css/assets/js/jquery-3.6.0.min.js') }}"></script>
 <script src="{{ asset('frontend_css/assets/js/jquery-ui.js') }}"></script>
 <script src="{{ asset('frontend_css/assets/js/bootstrap.bundle.min.js') }}"></script>
