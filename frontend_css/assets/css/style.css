@@ -171,6 +171,9 @@ input {
   border: 1px solid rgba(167, 167, 167, 0.431372549);
 }
 @media (max-width: 767px) {
+    .header-logo img{
+        height: 60px !important;
+    }
   input {
     height: 45px;
   }
@@ -7452,7 +7455,7 @@ div#ui-datepicker-div {
   width: 100%;
   padding: 20px 5% !important;
   z-index: 99;
-  height: 100%;
+  height: auto;
   overflow-y: auto;
   background: #020B0D;
   box-shadow: 4px 3px 20px rgba(16, 33, 34, 0.06);
@@ -7463,7 +7466,7 @@ div#ui-datepicker-div {
   transform: translateY(-10vh);
   opacity: 0;
   visibility: hidden;
-  gap: 30px;
+  gap: 10px;
   /* Track */
   /* Handle */
   /* Handle on hover */
@@ -7716,7 +7719,7 @@ div#ui-datepicker-div {
 }
 @media (max-width: 991px) {
   .main-nav-wrapper .nav-contact-list {
-    margin-top: 50px;
+    margin-top: 20px;
   }
 }
 .main-nav-wrapper .nav-contact-list .citem h6 {
