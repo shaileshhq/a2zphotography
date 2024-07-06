@@ -94,7 +94,7 @@
                                     <i class="bi bi-geo-alt-fill"></i>
                                 </div>
                                 <div class="content">
-                                    <h6><a href="#">2464 Royal Ln 1 Ave Mesa New <br>Jersey USA.</a></h6>
+                                    <h6><a href="#">Varanasi, Uttar Pradesh <br>india (221311)</a></h6>
                                 </div>
                             </li>
                             <li>
@@ -103,7 +103,7 @@
                                 </div>
                                 <div class="content">
                                     <h6>
-                                        <a href="tel:+8801701111000">+880 170 1111 000</a>
+                                        <a href="tel:9454528015">+91-9454528015</a>
                                     </h6>
                                 </div>
                             </li>
@@ -113,7 +113,10 @@
                                 </div>
                                 <div class="content">
                                     <h6>
-                                        <a href="mailto:info@support.com">info@example.com</a>
+                                        <a href="mailto:a2zphotographyyy@gmail.com">a2zphotographyyy@gmail.com</a>
+                                    </h6>
+                                    <h6>
+                                        <a href="mailto:contact@a2zphotography.in">contact@a2zphotography.in</a>
                                     </h6>
                                 </div>
                             </li>

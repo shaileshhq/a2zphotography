@@ -2963,7 +2963,7 @@ footer.style1 .footer-widget .widget-title {
 footer.style1 .footer-widget .widget-title h4 {
   font-family: var(--font-cormorant);
   font-weight: 700;
-  font-size: 25px;
+  font-size: 24px;
   line-height: 40px;
   text-transform: uppercase;
   color: var(--white);
@@ -6966,11 +6966,11 @@ header.style-3 .mobile-menu-btn .bx {
   margin-bottom: 0;
 }
 .footer-top .contact-us-page .contact-left ul li .content h6 a {
-  font-family: var(--font-spartan);
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 32px;
-  color:#fff;
+    font-family: var(--font-spartan);
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 26px;
+    color: #fff;
 }
 .contact-us-page .contact-left ul li .content h6 a {
     font-family: var(--font-spartan);

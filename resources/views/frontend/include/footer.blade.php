@@ -54,10 +54,7 @@
 </div>
 <div class="content">
 <h6>
-<a href="#"><span>photography@gmail.com</span></a>
-</h6>
-<h6>
-<a href="#"><span>photography@gmail.com</span></a>
+<a href="#"><span>a2zphotographyyy@gmail.com</span></a>
 </h6>
 </div>
 </li>
