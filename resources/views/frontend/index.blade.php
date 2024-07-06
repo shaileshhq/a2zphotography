@@ -846,6 +846,7 @@
     <script src="{{ asset('frontend_css/assets/js/scrollToPlugin.html') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/sidebar.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/simpleParallax.min.js') }}"></script>
+    <script src="{{ asset('frontend_css/assets/js/simpleParallax.min.js') }}"></script>
     <script src="{{ asset('frontend_css/assets/js/main.js') }}"></script>
 </body>
 
