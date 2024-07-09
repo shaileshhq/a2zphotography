@@ -7,7 +7,7 @@
     <title>Best Photographers in Varanasi | Professional photographer in varanasi</title>
     <meta name="keywords" content="Wedding Photographers In Varanasi, Wedding Photography Studio, Best Photo Studio, Top Candid Photographer, Pre-wedding Shoot, Cinematic Wedding Cinematography,newborn Photography Service, Drone Photography Services, Book Now And Enjoy" />
     <meta name="description" content="As The Most Affordable Photographers In Varanasi, We Capture The Moments Of Everyday Life And Cultural Traditions Of Varanasi. Check Our Work Here." />
-    <link rel="icon" href="{{ asset('frontend_css/assets/images/sm-logo.svg') }}" type="image/gif" sizes="20x20">
+    <link rel="icon" href="{{ asset('frontend_css/assets/images/favicon.png') }}" type="image/gif" sizes="20x20">
     <link rel="stylesheet" href="{{ asset('frontend_css/assets/css/animate.css') }}">
     <link rel="stylesheet" href="{{ asset('frontend_css/assets/css/all.css') }}">
     <link rel="stylesheet" href="{{ asset('frontend_css/assets/css/bootstrap.min.css') }}">
@@ -530,7 +530,7 @@
     </div>
 
 
-    <div class="pricing-plan-area pt-120 mb-120 ">
+    {{-- <div class="pricing-plan-area pt-120 mb-120 ">
         <div class="container">
             <div class="row mb-70">
                 <div class="col-12">
@@ -646,7 +646,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
 
     <div class="news-area pt-120 pb-50 bg-1">
@@ -654,7 +654,7 @@
             <div class="row mb-70">
                 <div class="col-12">
                     <div class="section-title1 text-center">
-                        <h2>News & Articles</h2>
+                        <h2>Our Blogs</h2>
                         <p>Here are a few suggestions for news and articles related to photography that could be
                             interesting for your website or audience.</p>
                     </div>
