@@ -35,8 +35,9 @@
 <i class="bi bi-geo-alt-fill"></i>
 </div>
 <div class="content">
-<h6><a href="#">Varanasi, Uttar Pradesh, India <br>(221311)</a></h6>
+<h6><a href="#">Deura, Kashipur, Varanasi, Uttar Pradesh, India <br>(221311)</a></h6>
 </div>
+
 </li>
 <li>
 <div class="icon">
